@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MarioDeberry/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/MarioDeberry/Configuring-Active-Directory-within-Azure-VMs)
+  - [DNS Record Activity](https://github.com/MarioDeberry/DNS-Record-Activity)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarioDeberry/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
